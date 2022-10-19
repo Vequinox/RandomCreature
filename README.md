@@ -1,4 +1,4 @@
-# RandomCreatureX
+# RandomCreature
 Use the following links to get a random vintage legal creature from Magic: the Gathering with mana value X:
 
 Mana Value(s):
